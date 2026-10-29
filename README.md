@@ -1,4 +1,4 @@
-# Hi, I'm Prakriti Dhanasekar 👋
+# Hi, I'm PrakritiDhanasekar 👋
 
 Final-year B.Tech Computer Science & Business Systems student at SSMIET, Dindigul (2023 – 2027, CGPA 8.36).
 I'm building my foundation in **Java** and aiming for a **Java backend developer** role.
